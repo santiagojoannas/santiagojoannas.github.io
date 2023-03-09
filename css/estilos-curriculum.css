@@ -1,0 +1,102 @@
+*{
+  font-family: 'Roboto', sans-serif;
+  
+}
+
+body {
+  background-color: rgb(226, 130, 62);
+}
+
+span{
+    color: black;
+    width: 300px;
+}
+
+header {
+  color: black;
+  padding: 0px 0px 0px 0px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  font-weight: bold;
+  font-weight: 400;
+  text-align: center;
+
+}
+
+section {
+    background-color: rgba(26, 26, 99, 0.733);
+    border: 0.5px solid black;
+    color: white;
+    width: 300px;
+    height: 448px;
+    padding: 10px;
+    margin: 10px 50px 10px 10px;
+    float: left;
+  }
+
+section_1 {
+    width: 70%;
+    margin-top: 8px;
+    margin-right: 10px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    border: 0.5px solid black;
+    float: right;
+    font-style: italic;
+    background-color: lightgray;
+  
+  }
+  
+section_2 {
+
+    margin-top: 5px;
+    margin-right: 10px;
+    width: 70%;
+    text-align: inherit;
+    float: right;
+
+  }
+  
+  a {
+    color: white;
+  }
+
+  #perfil {
+    margin: 5px;
+    
+  }
+
+  #mi_heading2 {
+    font-size: 1.17em;
+    background-color: rgb(2, 2, 41);
+    color: white;
+    height: 23px;
+    width: 106px;
+    padding: 5px;
+    margin: 5px;
+    
+  }
+
+  #mi_heading3 {
+    font-size: 1,17em;
+    background-color: rgb(2, 2, 41);
+    color: white;
+    height: 23px;
+    width: 191px;
+    padding: 5px;
+    margin: 5px;
+
+  }
+  
+  #mi_span {
+    color: white;
+    font-size: 15px;
+    
+  }
+
+  .estaesmiclase {
+    font-weight: bold;
+    color: lightblue;
+  }
